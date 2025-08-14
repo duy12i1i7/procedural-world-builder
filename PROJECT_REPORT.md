@@ -209,7 +209,6 @@ procedural-world-builder/                    # 🏠 Root Project Directory
 ├── 📄 LICENSE                              # ⚖️ MIT License
 ├── 📄 .gitignore                           # 🙈 Git Ignore Configuration
 └── 📄 package.json                         # 📦 Root Package Configuration
-```
 ├── scripts/                 # Setup scripts
 │   ├── setup.sh
 │   └── setup.bat

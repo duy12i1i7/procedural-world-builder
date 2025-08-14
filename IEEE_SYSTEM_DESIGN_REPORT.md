@@ -1,9 +1,3 @@
-# IEEE System Design Report
-
-**A Comprehensive AI-Powered System for Procedural 3D Educational Content Generation**
-
----
-
 ## Abstract
 
 This paper presents the design and implementation of a novel AI-powered system for automatic generation of 3D educational content. The Procedural World Builder for Educational Videos integrates cutting-edge artificial intelligence (OpenAI GPT-4), real-time 3D rendering (Three.js), and cloud-based text-to-speech services (Azure Speech) to create an end-to-end solution for educational content creators. The system transforms textual topic descriptions into immersive 3D scenes with synchronized camera animations, voice narration, and subtitles. Our architecture demonstrates significant improvements in content creation efficiency while maintaining high educational value and visual quality. Performance evaluations show the system can generate complex 3D educational scenes in under 30 seconds with 60fps real-time rendering capabilities.

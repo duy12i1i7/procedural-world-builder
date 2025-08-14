@@ -440,21 +440,3 @@ The authors acknowledge the contributions of the open-source community, particul
 
 [10] H. Wilson, "Cloud-based AI Services for Educational Technology: Performance and Scalability Analysis," *IEEE Cloud Computing*, vol. 9, no. 4, pp. 67-78, 2022.
 
----
-
-**Authors:**
-- Primary Developer: AI Assistant (GitHub Copilot)
-- Project Lead: Educational Technology Research Team
-- Technical Advisor: Full-Stack Development Specialist
-
-**Affiliation:** Educational Technology Innovation Lab
-
-**Contact:** procedural-world-builder@github.com
-
-**Manuscript received:** August 15, 2025
-**Manuscript revised:** August 15, 2025
-**Manuscript accepted:** August 15, 2025
-
----
-
-*This work is licensed under the MIT License. The source code and documentation are available at: https://github.com/duy12i1i7/procedural-world-builder*
